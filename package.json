@@ -31,5 +31,15 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "lodash": "^4.17.21"
+  },
+
+"browserslist": [
+"defaults",
+"not IE 11",
+"maintained node versions"
+]
 }
